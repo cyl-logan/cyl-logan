@@ -13,4 +13,5 @@ Graduate student at CUHK, interested in **quantitative trading** and **data-driv
 
 ## 📫 Contact
 
+- Homepage: [cyl-logan.github.io](https://cyl-logan.github.io)
 - Email: yuelongchen@cuhk.edu.hk
